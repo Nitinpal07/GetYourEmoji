@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "655231450448",
+    "firebase_url": "https://getyouremoji.firebaseio.com",
+    "project_id": "getyouremoji",
+    "storage_bucket": "getyouremoji.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655231450448:android:576b233ea6094c7f",
+        "android_client_info": {
+          "package_name": "nitin.luckyproject.getyouremoji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655231450448-isuir3nkv7s4o74u3sttm3mh0jdjcsv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nitin.luckyproject.getyouremoji",
+            "certificate_hash": "3f2e4deb8bb70c962869c997b2c43dbbf3becb0d"
+          }
+        },
+        {
+          "client_id": "655231450448-4qiohrn9nsfqspmssh419c66kkt1r03e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLER2whNI65MSfUV-025hERw8es4dRIeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655231450448-4qiohrn9nsfqspmssh419c66kkt1r03e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
